@@ -1,6 +1,6 @@
 # BIDS maintainer meeting, Seattle, April 11th-12th, 2024
 
-The purpose of this meeting is to broadly advance BIDS development. Participants will work in small team to advance a variety of different topics, including advancing BEPs
+The purpose of this meeting is to broadly advance BIDS development. Participants will work in small teams to advance a variety of different topics, including advancing BEPs and common principles.
 
 ## Location
 
@@ -8,7 +8,11 @@ The meeting will take place at the [University of Washington eScience Institute 
 
 ## Schedule:
 
-| Time (PT) | Thursday, June 22nd | Friday, June 23rd |
+NOTE: All times tentative until confirmed by @arokem
+
+An informal pre-meeting will take place **Wednesday April 10th** as participants arrive. 
+
+| Time (PT) | Thursday, April 11th  | Friday, April 12th |
 |---|---|---|
 | 8:30 | Breakfast | Breakfast |
 | 9 am | Welcome  | Morning updates|
@@ -20,7 +24,10 @@ The meeting will take place at the [University of Washington eScience Institute 
 | Afternoon | Work in groups | Work in groups |
 | 5:30 pm | Group dinner | Group dinner |
 
+## Lodging:
 
+Nearby options include Staypineapple University Inn, Staypineapple Watertown, etc.
+Ariel has provided details to invitees over Slack.
 
 ## Funding support
 
