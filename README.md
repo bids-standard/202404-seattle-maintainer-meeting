@@ -10,23 +10,13 @@ The meeting will take place at the [University of Washington eScience Institute 
 
 NOTE: All times tentative until confirmed by @arokem
 
-An informal pre-meeting will take place **Wednesday April 10th** as participants arrive. 
+An informal pre-meeting will take place **Wednesday, April 10<sup>th</sup>** as participants arrive. 
 
-| Time (PT) | Thursday, April 11th  | Friday, April 12th |
-|---|---|---|
-| 8:30 | Breakfast | Breakfast |
-| 9 am | Welcome  | Morning updates|
-| Morning | Work in groups | Work in groups |
-| Noon - 1 pm | Lunch | Lunch |
-| 2 pm | Coffee | Coffee|
-|  | | |
-| 3 pm | Work in groups | Work in groups |
-| Afternoon | Work in groups | Work in groups |
-| 5:30 pm | Group dinner | Group dinner |
+![Meeting Schedule](schedule.png)
 
 ## Lodging and Logistics
 
-Details have been shared with invitees re funding provided for this meeting covering travel, lodging, and food.
+Details have been shared with invitees regarding funding provided for this meeting covering travel, lodging, and food.
 Nearby lodging options include Staypineapple University Inn, Staypineapple Watertown, etc.
 
 ## Funding support
