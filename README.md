@@ -12,7 +12,7 @@ NOTE: All times tentative until confirmed by @arokem
 
 An informal pre-meeting will take place **Wednesday, April 10<sup>th</sup>** as participants arrive.
 
-<img src="schedule.png" alt="Meeting Schedule" width="500"/>
+<img src="schedule.png" alt="Meeting Schedule" width="90%"/>
 
 ## Lodging and Logistics
 
